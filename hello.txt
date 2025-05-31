@@ -13,4 +13,4 @@ hello maiyaokeng! hello git!
 hello maiyaokeng! hello git!
 hello maiyaokeng! hello git!
 hello maiyaokeng! hello git!
-hello maiyaokeng! hello git!
+hello maiyaokeng! hello git! hot-fix test
